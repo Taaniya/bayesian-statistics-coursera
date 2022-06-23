@@ -3,7 +3,7 @@
 This repository contains work on bayesian statistics course from Coursera including the experiments run for conceptual understanding, links that I found useful for reference
 and assignment and quiz solutions.
 
-All the work is present as Notebooks that can be reproduced anywhere after cloning this repo.
+All the work is present as Notebooks that can be reproduced anywhere
 
 ## Contents
 
